@@ -1,0 +1,38 @@
+# KiCad backups
+*-backups/
+*backup*
+_autosave-*
+
+# Local project settings (user-specific)
+*.kicad_prl
+
+# Cache and lock files
+fp-info-cache
+*.lck
+
+# Generated outputs (Gerbers, BOM, drill files, etc.)
+gerbers/
+fab/
+production/
+*.gbr
+*.drl
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.gtp
+*.gbp
+*.gko
+*.gm1
+*.dxf
+*.pdf
+*.csv
+*.pos
+*.rpt
+*.xml
+
+# Python
+__pycache__/
+*.pyc
