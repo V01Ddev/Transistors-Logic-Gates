@@ -153,7 +153,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.4,
+        "min_track_width": 0.6,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -648,7 +649,7 @@
         "uuid": "e556f542-5814-47ca-a1c7-5982ad13d67d"
       }
     ],
-    "used_designators": "SW1-7,D1-4,R1-12,Q1-7,J1",
+    "used_designators": "SW1-11,D1-4,R1-15,Q1-8,J1",
     "variants": []
   },
   "sheets": [
